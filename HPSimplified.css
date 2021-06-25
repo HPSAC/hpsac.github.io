@@ -1,28 +1,28 @@
 /* HPSimplified */
 @font-face {
         font-family: "HPSimplified";
-        src:   url("https://hpsac.github.io/HpSimplifiedLight.woff2") format("woff2");
+        src:   url("https://hpsac.github.io/HpSimplifiedLight.woff") format("woff");
         font-weight: 300;
         font-style: normal;
         font-display: swap;
 }
 @font-face {
         font-family: "HPSimplified";
-        src:   url("https://hpsac.github.io/HPSimplifiedRegular.woff2") format("woff2");
+        src:   url("https://hpsac.github.io/HPSimplifiedRegular.woff") format("woff");
         font-weight: 400;
         font-style: normal;
         font-display: swap;
 }
 @font-face {
         font-family: "HPSimplified";
-        src:   url("https://hpsac.github.io/HPSimplifiedBold.woff2") format("woff2");
+        src:   url("https://hpsac.github.io/HPSimplifiedBold.woff") format("woff");
         font-weight: 700;
         font-style: normal;
         font-display: swap;
 }
 @font-face {
         font-family: "HPSimplified";
-        src:   url("https://hpsac.github.io/HPSimplifiedLightItalic.woff2") format("woff2");
+        src:   url("https://hpsac.github.io/HPSimplifiedLightItalic.woff") format("woff");
         font-weight: 300;
         font-style: italic;
         font-display: swap;
