@@ -1,43 +1,43 @@
 /* HPSimplified */
 @font-face{
 font-family:  "HPSimplifiedRegular";
-src:url(https://hpsac.github.io/HPSimplifiedRegular.ttf) format("truetype");
+src:url("https://hpsac.github.io/HPSimplifiedRegular.ttf") format("truetype");
 font-weight: 400;
 font-display: swap;}
 
 @font-face{
 font-family: "HPSimplifiedBold";
-src: url(https://hpsac.github.io/HPSimplifiedBold.ttf) format("truetype");
+src: url("https://hpsac.github.io/HPSimplifiedBold.ttf") format("truetype");
 font-weight: 700;
 font-display: swap;}
 
 @font-face{
 font-family: "HPSimplifiedLight";
-src: url(https://hpsac.github.io/HpSimplifiedLight.ttf) format("truetype");
+src: url("https://hpsac.github.io/HpSimplifiedLight.ttf") format("truetype");
 font-weight:300;
 font-display: swap;}
 
 @font-face{
 font-family: "HPSimplifiedLightItalic";
 font-style: italic;
-src: url(https://hpsac.github.io/HPSimplifiedLightItalic.ttf) format("truetype");
+src: url("https://hpsac.github.io/HPSimplifiedLightItalic.ttf") format("truetype");
 font-weight: 300;
 font-display: swap;}
 
 @font-face{
 font-family: "HPSimplified";
-src: url(https://hpsac.github.io/HPSimplifiedRegular.ttf) format("truetype");
+src: url("https://hpsac.github.io/HPSimplifiedRegular.ttf") format("truetype");
 font-weight: 400;
 font-display: swap;} 
 
 @font-face{
 font-family: "HPSimplified-Regular";
-src: url(https://hpsac.github.io/HPSimplifiedRegular.ttf) format("truetype");
+src: url("https://hpsac.github.io/HPSimplifiedRegular.ttf") format("truetype");
 font-weight: 400;
 font-display: swap;} 
 
 @font-face{
 font-family: "HPSimplified-Light";
-src: url(https://hpsac.github.io/HpSimplifiedLight.ttf) format("truetype");
+src: url("https://hpsac.github.io/HpSimplifiedLight.ttf") format("truetype");
 font-weight: 300;
 font-display: swap;}
